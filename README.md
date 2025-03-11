@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **28vanshikasaini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-img align="right" alt="Coding" width="400" src="https://giphy.com/explore/coding-cat")
+<img align="right" alt="Coding" width="400" src="https://giphy.com/explore/coding-cat">
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/update/urn:li:grouppost:6773411-7290077711891402752?utm_source=social_share_sheet&utm_medium=android_app&utm_campaign=whatsapp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/update/urn:li:grouppost:6773411-7290077711891402752?utm_source=social_share_sheet&utm_medium=android_app&utm_campaign=whatsapp" height="30" width="40" /></a>
